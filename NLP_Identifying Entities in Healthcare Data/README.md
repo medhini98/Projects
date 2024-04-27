@@ -34,7 +34,7 @@ treatment processes.
     
   **Methodology**  
     
-  1. Data Preprocessing  
+  **1. Data Preprocessing**
   Transform such that we recover complete sentences and label sequences.
   Empty lines in the files indicate end of current sentence.  
     
